@@ -2,7 +2,7 @@ title: PNU_3991
 lang: en
 description: Winter Semester Courses 1399/2020.
 
-remote_theme: rundocs/jekyll-rtd-theme@v2 # rundocs/jekyll-theme-docsify
+remote_theme: rundocs/jekyll-rtd-theme # rundocs/jekyll-theme-docsify
 
 debug:
   compress: true
